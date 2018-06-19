@@ -1,0 +1,37 @@
+body {
+  background-color: #e8ffd1;
+}
+
+#display {
+  font-size: 15pt;
+}
+#current {
+  font-size: 10pt;
+}
+
+.calcPanel {
+  margin-top: 5px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: lightgray;
+  width: 250px !important;
+  box-shadow: 2px 3px #aaa;
+}
+
+.calcRow {
+  margin: 5px;
+}
+
+.btn {
+  width: 40px;
+  margin: 2px;
+  box-shadow: 2px 2px #888888;
+}
+.btn:active {
+  transform: translate(1px, 1px);
+}
+
+.card {
+  height: 65px;
+  padding: 5px;
+}
